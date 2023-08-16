@@ -47,4 +47,4 @@ This project showcases the power of combining natural language processing techni
 
 ## Acknowledgements
 
-We would like to express our gratitude to the open-source community for providing essential libraries and tools that enabled the successful completion of this project.
+I would like to express my gratitude to the open-source community for providing essential libraries and tools that enabled the successful completion of this project.
